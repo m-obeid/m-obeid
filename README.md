@@ -1,5 +1,5 @@
 <h2><img src="assets/omori_sprite.png" width="50"> WELCOME TO CODESPACE</h2>
-<img align='right' src="assets/omori_side.gif" width="512">
+<img align='right' src="assets/omori_side.gif" width="300">
 <p><em>I'm Mohamad Obeid, but most people on the internet know me as POCOGuy or omoriboy. I fricking love computers and OMORI :D</em></p>
 
 [![GitHub](https://img.shields.io/github/followers/m-obeid?label=follow&style=social)](https://github.com/m-obeid)
