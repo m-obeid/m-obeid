@@ -1,4 +1,4 @@
-<h1><img src="assets/omori_sprite.png" height="32"> WELCOME TO CODESPACE</h1>
+<h1 style="font-family: monospace"><img src="assets/omori_sprite.png" height="40"> WELCOME TO CODESPACE</h1>
 <img align='right' src="assets/omori_side.gif" width="230">
 <p><em>I'm Mohamad Obeid, but most people on the internet know me as POCOGuy or omoriboy. I fricking love computers and OMORI :D</em></p>
 
