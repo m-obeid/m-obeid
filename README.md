@@ -20,7 +20,7 @@ const mohamad = {
   job: "student",
   country: "de",
   schoolType: "Gymnasium",
-  schoolGrade: 8,
+  schoolGrade: 9,
   personalityType: "INFP",
   pronouns: "he" | "him",
   code: ["JavaScript", "HTML", "CSS", "Python", "C#"],
@@ -30,10 +30,10 @@ const mohamad = {
   mainSetup:
   {
     cpu: "AMD Ryzen 5 5600X",
-    gpu: "NVIDIA RTX 3060 12GB",
+    gpu: "NVIDIA GeForce RTX 3060 12GB",
     ram: "Corsair Vengeance LPX 16GBx2 DDR4-3600",
     os: "Windows 11 Pro",
-    monitor: "LG ULTRAWIDE 21:9 28" (2560x1080)"
+    monitor: "LG ULTRAWIDE 21:9 28 inches (2560x1080)"
   },
   thinkpad: {
      model: "E580",
