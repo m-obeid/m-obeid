@@ -16,7 +16,7 @@
 
 ```javascript
 const mohamad = {
-  age: 16,
+  age: 17,
   job: "student",
   country: "de",
   schoolType: "Gymnasium",
@@ -33,6 +33,7 @@ const mohamad = {
     gpu: "NVIDIA GeForce RTX 3060 12GB",
     ram: "Corsair Vengeance LPX 16GBx2 DDR4-3600",
     os: "Arch Linux",
+    de: "GNOME 49.1",
     monitors: ["LG ULTRAWIDE 21:9 28' IPS (2560x1080@75Hz)", "Generic Lenovo 16:10 24' IPS (1920x1200@60Hz)"],
     hostname: "whitespace"
   },
@@ -42,6 +43,7 @@ const mohamad = {
      gpu: undefined,
      ram: "8GB",
      os: "Arch Linux",
+     de: "GNOME 49.1",
      monitors: [...mohamad.mainSetup.monitors, "ThinkPad Standard IPS Display (1920x1080@60Hz)"],
      hostname: "thinkpad"
   }
