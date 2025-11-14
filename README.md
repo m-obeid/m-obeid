@@ -29,6 +29,7 @@ const mohamad = {
   tablet: "Apple iPad Pro (2021) 256GB",
   mainSetup:
   {
+    mainboard: "ASUS ROG STRIX B550-E GAMING",
     cpu: "AMD Ryzen 5 5600X",
     gpu: "NVIDIA GeForce RTX 3060 12GB",
     ram: "Corsair Vengeance LPX 16GBx2 DDR4-3600",
@@ -38,7 +39,7 @@ const mohamad = {
     hostname: "whitespace"
   },
   thinkpad: {
-     model: "E580",
+     mainboard: "E580",
      cpu: "Intel Core i5-8250U",
      gpu: undefined,
      ram: "8GB",
