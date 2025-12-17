@@ -29,31 +29,21 @@ const mohamad = {
   tablet: "Apple iPad Pro (2021) 256GB",
   mainSetup:
   {
-    mainboard: "ASUS ROG STRIX B550-E GAMING",
-    cpu: "AMD Ryzen 5 5600X",
-    gpu: "NVIDIA GeForce RTX 3060 12GB",
-    ram: "Corsair Vengeance LPX 16GBx2 DDR4-3600",
+    model: "Dell Precision 7670",
+    cpu: "Intel(R) Core(TM) i7-12850HX",
+    gpu: "NVIDIA QUADRO RTX A2000 Mobile (8GB)",
+    ram: "32GB DDR5-4800 CAMM",
     os: "Arch Linux",
-    de: "GNOME 49.1",
-    monitors: ["LG ULTRAWIDE 21:9 28' IPS (2560x1080@75Hz)", "Generic Lenovo 16:10 24' IPS (1920x1200@60Hz)"],
+    de: "GNOME 49.2",
+    monitors: ["LG ULTRAWIDE 21:9 28' IPS (2560x1080@75Hz)", "Generic Lenovo 16:10 24' IPS (1920x1200@60Hz)", "Built In Screen (1920x1200@60Hz)"],
     hostname: "whitespace"
-  },
-  thinkpad: {
-     mainboard: "E580",
-     cpu: "Intel Core i5-8250U",
-     gpu: undefined,
-     ram: "8GB",
-     os: "Arch Linux",
-     de: "GNOME 49.1",
-     monitors: [...mohamad.mainSetup.monitors, "ThinkPad Standard IPS Display (1920x1080@60Hz)"],
-     hostname: "thinkpad"
   }
 }
 ```
 <p align="center">
 <img src="/assets/infobox3.png" alt="Besides playing around with hardware and software, I like playing video games, listening to music, hanging out with my few friends and making digital art.">
 <img src="/assets/infobox2.png" alt="I do all kinds of projects on GitHub. Programming has been for a long time a way for me to cope with my problems. A place to survive, but not to live."><br>
-Last updated: Nov 2025
+Last updated: Dec 2025
 </p>
 
 <img align='right' src="assets/omori_side.png" width="200">
