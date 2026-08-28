@@ -43,7 +43,7 @@ const mohamad = {
 <p align="center">
 <img src="/assets/infobox3.png" alt="Besides playing around with hardware and software, I like playing video games, listening to music, hanging out with my few friends and making digital art.">
 <img src="/assets/infobox2.png" alt="I do all kinds of projects on GitHub. Programming has been for a long time a way for me to cope with my problems. A place to survive, but not to live."><br>
-Last updated: Dec 2025
+Last updated: Aug 2026
 </p>
 
 <img align='right' src="assets/omori_side.png" width="200">
