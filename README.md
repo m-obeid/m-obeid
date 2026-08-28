@@ -16,11 +16,11 @@
 
 ```javascript
 const mohamad = {
-  age: 17,
+  age: 18,
   job: "student",
   country: "de",
-  schoolType: "Gymnasium",
-  schoolGrade: 9,
+  schoolType: "42 Wolfsburg",
+  schoolGrade: "Future Pisciner",
   personalityType: "INFP",
   pronouns: "he" | "him",
   code: ["JavaScript", "HTML", "CSS", "Python", "C#"],
